@@ -7,10 +7,9 @@ Zhiying Jiang, Zengxi Zhang, Jinyuan Liu, Xin Fan, Risheng Liu* ,**“Multi-Spec
 
 ## Download
 
-Download the pre-trained model and put it in /checkpoints
-  - [Google Drive](https://drive.google.com/file/d/122YwzPq3JvQGbvs5sMw0R-yNrjxiuEQZ/view?usp=sharing)
-  - [Baidu Yun](https://pan.baidu.com/s/1X0FxjHXefv6DyjZ4tC85Ig?pwd=eufg)
-
+Download the pre-trained model and put it in /snapshot
+  - [Google Drive](https://drive.google.com/file/d/1dbVs9WEpy-JYYSmVpMW44Gm-UKRXTECQ/view?usp=sharing)
+  - [Baidu Yun](https://pan.baidu.com/s/1PLmYdTc8YYkIKywtbrjYnw?pwd=ee5k)
 
 
 
@@ -31,7 +30,7 @@ Download the pre-trained model and put it in /snapshot
 
 ### Quick Run
 ```
-python test.py
+python test_alignment.py
 ```
 ## Dataset (ChaMS dataset)
 The MSIS dataset is available at https://github.com/Jzy2017/MSIS
