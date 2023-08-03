@@ -3,7 +3,7 @@
 
 Zhiying Jiang, Zengxi Zhang, Jinyuan Liu, Xin Fan, Risheng Liu* ,**“Multi-Spectral Image Stitching via Spatial Graph Reasoning”**, Proceedings of the 31th ACM International Conference on Multimedia **(ACM MM)**, 2023. [*[paper]*](https://arxiv.org/pdf/2307.16741.pdf)
 ## Overview
-![Abstract](figures/structure.png)
+![Abstract](figures/structure.PNG)
 
 ## Download
 
